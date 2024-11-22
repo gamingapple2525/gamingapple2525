@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on too much things<br>👯 I’m looking to collaborate on other good people<br>🤝 I’m looking for help with everything<br>🌱 I’m currently learning again too much<br>💬 Ask me about nothing please<br>⚡ Fun fact i'm a noob
+🔭 I’m currently working on too much things<br>👯 I’m looking to collaborate with other good people<br>🤝 I’m looking for help with everything<br>🌱 I’m currently learning again too much<br>💬 Ask me about nothing please<br>⚡ Fun fact i'm a noob
 
 
 # 💻 Tech Stack:
