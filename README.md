@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on too much things<br>❤ fivem & redm dev<br>😁 trying not to be bad<br>🔧 doing some linux admin stuff<br>💻 wannabe security researcher<br>⚡ Fun fact i'm a noob
+🔭 I’m currently working on too much things<br>❤ fivem & redm dev<br>😁 trying not to be bad<br>🔧 doing some linux admin stuff<br>💻 wannabe security researcher<br>⚡ i'm a noob
 
 
 # 💻 Tech Stack:
