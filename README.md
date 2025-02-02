@@ -1,5 +1,5 @@
 # 💫 About Me:
-❤ fivem & redm dev<br>🔧 linux admin<br>💻 wannabe security researcher
+❤ fivem dev<br>🔧 linux admin<br>💻 wannabe security researcher
 
 
 # 💻 Tech Stack:
